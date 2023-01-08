@@ -1,0 +1,15 @@
+Python uses the following built-in data types (Primitives)
+
+- Text: STR (string)
+- Numeric: INT (integer), FLOAT (decimal), COMPLEX (complex numbers)
+- Boolean: BOOL (True or False, Yes or No, 1 or 0)
+- Sequence: LIST, TUPLE, RANGE
+- Map: DICT
+
+# For complex operations
+- SET, FROZENSET, BYTES, BYTEARRAY, MEMORYVIEW
+
+'CASTING' refers to converting data from one type to another.
+'Python Literals' - values typed in source code can be specified by using "literals"
+    - differentiate ambiguous data
+    - separate code from data
